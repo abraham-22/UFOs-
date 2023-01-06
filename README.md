@@ -1,9 +1,5 @@
 # UFO Sighting Data Analysis
 
-
-* Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
-
 ## Overview:
 
 The overall purpose of this analysis is to create a table and organize UFO sighting data that is stored as a JavaScript array, or list. This table have the ability to filter data based on certain criteria. It is dynamic table that will react to user input, and then for data visualization place the table into an HTML file. We used JavaScript as the primary coding language to build the dashboards for visualization and customization. 
